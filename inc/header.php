@@ -13,14 +13,16 @@ $loadEnquiryModalPopup = !isset($_COOKIE['enquiry_submitted']);
 	<script>
 		window.dataLayer = window.dataLayer || [];
 
-	function gtag(){dataLayer.push(arguments);}
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
-	gtag('config', 'G-HTYJ6F99BV');
+		gtag('config', 'G-HTYJ6F99BV');
 	</script>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta property="og:url" content="https://everglooffers.laserhairtreatments.in/" />
+	<meta property="og:url" content="https://evergloolhr.laserhairtreatments.in/" />
 	<meta property="og:title" content=" Ever Glo Aesthetic Clinic " />
 	<meta property="og:site_name" content=" Ever Glo Aesthetic Clinic " />
 	<meta property="og:description" content=" Ever Glo Aesthetic Clinic in Chennai" />
