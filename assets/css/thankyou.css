@@ -1,0 +1,31 @@
+.thankyou-sec .thankyou-sec-cont-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: calc(100vh - 100px);
+  padding: 50px 0;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.thankyou-sec .thankyou-sec-cont-c img {
+  width: 200px;
+  height: 200px;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.thankyou-sec .thankyou-sec-cont-c h3 {
+  margin: 50px 0;
+}
+
+.thankyou-sec .thankyou-sec-cont-c h3 span {
+  display: table;
+  width: 100%;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=thankyou.css.map */

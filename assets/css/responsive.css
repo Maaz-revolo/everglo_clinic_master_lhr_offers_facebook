@@ -1,0 +1,1396 @@
+@media only screen and (min-width:576px) {
+    .container-c {
+        max-width: 540px;
+    }
+
+    
+
+    .slick-slide {
+        margin: 0 15px;
+    }
+
+    .slick-list {
+        margin: 0 -15px;
+    }
+
+
+    .padng-sec {
+        padding: 50px 0;
+    }
+
+
+    /* .banner-hone .banner-content .baner-feature {
+        padding: 20px;
+        width: 90%;
+    } */
+
+    /* .banner-hone .banner-content-text h1 span {       
+        margin: 5px auto;     
+        padding: 0 15px;       
+        font-size: 40px;
+    } */
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img picture img {
+        height: 200px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img {
+        width: calc(100% - 185px);
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.img-btm {
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single picture img {
+        width: 175px;
+        height: 200px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single .ex-yr {
+        width: 170px;
+        height: 170px;
+    }
+
+   
+
+    .quick-contact {
+        padding: 50px 0;
+    }
+
+    .our-numbers .our-numbersa-all .our-numbersa-single p {
+        min-height: auto;
+    }
+
+    .meet-doctors .meet-doctor-image .doctor-image img {
+        width: 100%;
+        height: 300px;
+    }
+
+    .meet-doctors .meet-doctor-detail h6 {
+        margin-top: 10px;
+    }
+
+    .why-us .why-us-img .why-us-img-single img {
+        height: 200px;
+    }
+
+    .why-us .why-us-img .why-us-img-single.sml-img img {
+        height: 150px;
+    }
+
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head,
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head.open,
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head.open-2 {
+        padding: 20px;
+    }
+
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head h5 {
+        width: calc(100% - 40px);
+        margin-left: 15px;
+    }
+
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .home-contact .hme-cntct-al-c {
+        padding: 30px;
+    }
+
+    .why-us-cont .faq-accordian .faq-accordian-single .faq-accordian-single-head,
+    .why-us-cont .faq-accordian .faq-accordian-single .faq-accordian-single-head.open,
+    .why-us-cont .faq-accordian .faq-accordian-single .faq-accordian-single-head.open-2 {
+        padding: 0;
+    }
+
+    .wa-btn-n-sec {
+        right: 10px;      
+        position: fixed;
+        bottom: 0;
+        margin-bottom: 0;
+    }
+    
+    .wa-btn-n-sec .wa-btn-n span {
+        display: none;
+    }
+    .wa-btn-n-sec .wa-btn-n {       
+        padding: 15px 20px;       
+        width: 100%;
+        border-radius: 5px 5px 0 0;
+    }
+
+    .custom-modal .modal-body-n .modal-input-n .modal-input-btn-n .f-btn {       
+        max-width: none;
+    }
+
+   
+    .video-sec .video-c-video video {        
+        height: 325px;
+    }
+
+    .meet-doctors .meet-doctors-single {       
+        padding: 50px;       
+    }
+    .our-numbers .our-numbers-sqr {
+        width: 400px;
+        height: 400px;      
+        top: -295px;       
+        left: 0px;
+    }
+
+    .video-sec:after {       
+        height: 60%;        
+    }
+
+    .video-sec .our-numbers-sqr-sml {
+        width: 250px;
+        height: 250px;     
+    }
+}
+
+
+@media only screen and (min-width:768px) {
+    .container-c {
+        max-width: 720px;
+    }
+    
+
+    .f-btn {
+        max-width: max-content;
+        margin: 0 auto;
+        /* border-radius: 100px; */
+    }
+
+    .banner-hone {
+        padding: 50px 0;
+    }
+
+    /* .banner-hone .banner-content .baner-feature {
+        width: 65%;
+    } */
+    .banner-hone .banner-content-text h3 .wax-thrd {
+        display: inline;       
+    }
+    .banner-hone .banner-content-text .f-btn {
+        margin-top: 25px;
+    }
+
+    .banner-hone .gle-rating {
+        margin-top: 40px;
+    }
+
+    .banner-hone .gle-rating ul li img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img picture img {
+        height: 250px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img {
+        width: calc(100% - 275px);
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single picture img {
+        width: 265px;
+        height: 250px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img {
+        margin-bottom: 25px;
+    }
+
+    .our-numbers .our-numbersa-all .our-numbersa-single {
+        padding: 30px;
+    }    
+
+    .services .services-all {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    /* .services .services-single:nth-child(2n+2) {        
+        margin-right: 0;
+    } */
+
+    .services .services-single {       
+        width: 50%;
+        /* margin-bottom: 20px;
+        margin-right: 20px; */
+    }
+
+    .why-us .why-us-img .why-us-img-single img {
+        height: 250px;
+    }
+
+    .why-us .why-us-img .why-us-img-single.sml-img img {
+        height: 200px;
+    }    
+
+    .form-body .input-grp {
+        display: flex;
+    }
+
+    .form-body .input-grp .input-grp-single {
+        margin-bottom: 0;
+        margin-left: 15px;
+        width: 50%;
+    }
+
+    .form-body .input-grp .input-grp-single:first-child {
+        margin-left: 0;
+    }
+
+    .home-contact .f-btn {
+        max-width: 100%;
+    }
+
+    .custom-modal-b .custom-modal-dialog {
+        max-width: 800px;      
+    }
+
+    .clint-case .clint-case-single {
+        padding: 30px;      
+    }
+
+    
+    .clint-case .clint-case-single .clint-case-info {
+        margin-top: 20px;
+    }
+    
+    .clint-case .clint-case-single .clint-case-single-quote {        
+        left: unset;
+        right: 0px;
+        width: 65px;
+        height: 65px;
+        padding: 15px;
+    }
+
+    .banner-hone .banner-content .banner-input {        
+        display: flex;
+        break-after: column;
+        justify-content: center;
+    }
+
+    .quick-appoinment-all-inputs-grp {
+        display: flex;
+        align-items: center;       
+    }
+
+    .banner-hone .banner-content .banner-input {       
+        border-radius: 100px;
+        padding: 10px 10px 10px 25px;
+    }
+
+    .banner-hone .banner-content .banner-input input[type=text] {      
+        margin-right: 10px;
+        margin-bottom: 0;
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .banner-hone .banner-content .banner-input .f-btn {
+        margin-top: 0;
+    }
+
+    .banner-hone .banner-content .banner-input .f-btn img {        
+        display: none;
+    }
+    .quick-appoinment-all-inputs-single {        
+        margin-right: 20px;
+    }
+
+   
+
+    .banner-hone .banner-content .banner-content-img .banner-main-img img {       
+        height: 350px;      
+    }
+/* 
+    .banner-hone:after {       
+        height: 450px;       
+    } */
+
+    .banner-hone .banner-content .banner-input .f-btn {      
+        border-radius: 50px;
+    }
+
+    .banner-hone .banner-content .banner-content-img:after {       
+        width: 275px;
+        height: 275px;    
+    }
+
+    .services-sqrm,.banner-sqr, .after-before-sqr, .why-us-sqr-sml, .why-us-sqr {
+        width: 400px;
+        height: 400px;        
+    }
+
+    .video-sec .video-c-video video {
+        height: 365px;
+    }
+
+    .services-sqr {
+        width: 400px;
+        height: 400px;      
+        right: -205px;      
+    }
+
+    .meet-doctors .meet-doctors-single .meet-doctor-single-image .doctor-image img {        
+        height: 300px;
+    }
+
+    .video-sec .our-numbers-sqr-sml {
+        width: 300px;
+        height: 300px;
+        top: -45px;   
+    }
+
+    .banner-hone .banner-content-text p span {       
+        margin: 5px 0;        
+        padding: 7px 10px;
+    }
+    .meet-doctors {        
+        padding-top: 0 !important;
+    }
+
+    .why-us-cont .sub-head {
+        margin-bottom: 15px;
+    }
+
+    
+    .price-sec-c .services-single .f-btn{
+        max-width: unset;
+    }
+    .price-sec-c .services-single {
+        padding: 15px;       
+    }
+}
+
+@media only screen and (min-width:992px) {
+
+    .container-c {
+        max-width: 960px;
+    }
+
+    .f-btn {
+        margin: 0;
+    }
+
+    .step-c .f-btn {
+        margin: 0 auto;
+    }
+
+    header .logo img,
+    header.is-sticky .logo img {
+        height: 60px;
+    }
+
+    .step-c .step-all-c {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .step-c .step-all-c .step-single-c {
+        width: 50%;
+        padding: 30px;
+    }
+
+    .w-btn-c img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .w-btn-c span {
+        display: block;
+        margin-left: 15px;
+        font-size: 18px;
+    }
+
+    .w-btn-c span .brk {
+        margin-left: 0;
+        opacity: 0.4;
+        font-size: 14px;
+    }
+
+    header .f-btn {
+        padding: 10px 25px;
+        margin-left: 20px;
+        border-radius: 100px;
+    }
+
+    .banner-hone .banner-content-text h3 {
+        text-align: left;      
+        margin-bottom: 10px;
+        color: #fff;  
+    }
+
+    /* .banner-hone .banner-content .baner-feature {
+        width: 50%;
+    } */
+
+    header .cnt-inf .cnt-inf-text {
+        display: block;
+        margin-left: 10px;
+        font-family:bld-fnt;
+        font-size: 18px;
+    }
+
+    header .cnt-inf .cnt-inf-icon {
+        width: 40px;
+        height: 40px;       
+    }
+
+    header .cnt-inf {        
+        padding: 10px 15px;        
+        margin-left: 15px;
+    }
+
+    header .cnt-inf .cnt-inf-text .brk {
+        font-size: 14px;
+        opacity: 0.4;
+    }
+
+    header .cnt-inf .cnt-inf-a:hover .cnt-inf-icon:after {
+        bottom: 14px;
+        right: -15px;
+    }
+
+    .banner-hone .banner-content {
+        display: flex;
+        flex-direction: row-reverse;
+        /* height: calc(100vh - 130px); */
+        align-items: center;
+        padding: 30px 0 0;
+    }
+
+    .banner-content-img,
+    .banner-hone .banner-content-text {
+        width: 50%;
+    }
+
+    .banner-hone {
+        padding: 0;
+    }
+    
+
+    .banner-hone .banner-content-text {        
+        margin: 0 0 80px 0;
+    }
+
+    /* .banner-hone .banner-content .baner-feature {
+        width: 85%;
+    } */
+
+    .banner-hone:after {
+        height: 100%;
+    }
+
+    .banner-hone .banner-content .banner-content-img img {
+        height: 315px;
+    }
+
+
+    .banner-hone .gle-rating ul li {
+        margin: 0 2px;
+    }
+
+    .banner-hone .gle-rating {
+        margin-top: 30px;
+    }
+
+    .banner-hone .btn-grp {       
+        align-items: flex-start;
+    }
+
+   
+
+
+    .quick-appoinment-content,
+    .why-us-content {
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+    }
+
+    .quick-appoinment-content .sub-head {
+        width: 50%;
+        text-align: left;
+        padding-right: 50px;
+    }
+
+    .quick-appoinment-all-inputs {
+        width: 50%;
+    }
+
+    .quick-appoinment-all-inputs-grp,
+    .quick-contact-content {
+        display: flex;
+        align-items: center;
+    }
+
+    .brnefit-c .why-us-content .why-us-img,
+    .brnefit-c .why-us-content .why-us-text,
+    .quick-contact-content .sub-head,
+    .quick-contact-btn,
+    .why-us .why-us-img,
+    .why-us .why-us-cont,
+    .home-contact .offline-book,
+    .form-contact-hom {
+        width: 50%;
+    }
+
+    .quick-appoinment-all-inputs-single {
+        width: 50%;
+        padding: 0 15px;
+    }
+
+    .quick-appoinment-all-inputs-single {
+        margin-right: 0;
+    }
+
+    .quick-appoinment .quick-appoinment-all-inputs .quick-appoinment-all-inputs-single .f-btn {
+        max-width: 100%;
+    }
+
+    .brnefit-c .why-us-content .why-us-text {
+        padding-left: 50px;
+    }
+
+    .brnefit-c .why-us-content .why-us-text .sub-head {
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img picture img {
+        height: 195px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single picture img {
+        width: 225px;
+        height: 195px;
+    }
+
+    .our-numbers .our-numbersa-all .our-numbersa-single {
+        padding: 50px 30px;
+        width: 25%;
+    }
+
+    .our-numbers .our-numbersa-all {
+        border-radius: 10px;
+    }
+
+    .step-c .sub-head .brk {
+        display: inline;
+    }
+
+    .step-c .sub-head p {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .step-c .step-all-c .step-single-c {
+        width: 25%;
+        padding: 10px;
+    }
+
+    .step-row-rev {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .services .services-single {
+        width: 33.33%;
+        /* margin-right: 20px; */
+    }
+
+    /* .services .services-single:nth-child(2n+2) {
+        margin-right: 20px;
+    } */
+
+    .services .services-single:nth-child(3n+3) {
+        margin-right: 0px;
+    }
+
+    .price-sec-c .services-single:nth-child(3n+3),.price-sec-c .services-single:last-child{
+        margin-right: 10px;
+    }
+
+
+    .quick-contact-content .sub-head {
+        text-align: left;
+        margin: 0;
+    }
+
+    .why-us .why-us-cont {
+        margin-top: 0;
+        padding-right: 50px;
+    }
+
+    .why-us .why-us-cont .sub-head {
+        text-align: left;
+    }
+
+    .faq-all .faq-accordian {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .sub-head {
+        margin-bottom: 30px;
+    }
+
+    .home-contact .hme-cntct-al-c {
+        padding: 50px;
+        display: flex;
+    }
+
+    .home-contact .offline-book {
+        margin-bottom: 0;
+        margin-right: 50px;
+
+    }
+
+    .form-contact-hom,
+    .home-contact .offline-book {
+        flex: 1;
+        flex: inherit;
+    }
+
+    .home-contact .offline-book .sub-head {
+        margin-bottom: 0px;
+        text-align: left;
+    }  
+/* 
+    .get-in-touch-single {
+        margin-bottom: 0;
+        margin-right: 20px;
+        width: 33.33%;
+    } */
+
+    .get-in-touch-single:last-child {
+        margin-right: 0;
+    }
+
+    .get-in-touch{
+        position: relative;
+    }
+
+    .get-in-touch .container-c {
+        position: relative;
+        z-index: 2;
+    }
+    
+    
+    .get-in-touch:after {
+        content: "";
+        background: #3050A3;
+        width: 100%;
+        height: 275px;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    .get-in-touch-all {
+        display: flex;
+    }
+
+    .get-in-touch .sub-head h2, .get-in-touch  .sub-head p {
+        color: #fff;
+    }
+
+    .get-in-touch .sub-head h2 span{
+        color: #fe8a00;;
+    }
+
+
+    .modal-n .modal-content-n {       
+        width: 800px;
+    }    
+
+    .modal-n .modal-content-n .modal-body-n .modal-step-n .modal-step-body-n {
+        margin: 10px 0 25px;
+    }
+
+    .modal-n .modal-content-n .modal-body-n {        
+        height: auto;
+    }
+
+    .brnefit-c .why-us-content .why-us-img {
+        margin-bottom: 0px;
+    }    
+
+    footer .ftr-cnt .ftr-logo img {        
+        height: 65px;        
+    }
+
+    .step-c .step-all-c .step-single-c .step-single-c-arrow {       
+        display: block;
+    }
+
+    .step-c .step-all-c .step-row-rev .step-single-c {
+        margin-top: 0 !important;
+      }
+      
+      .step-c .step-all-c .step-row-rev .step-single-c .step-single-c-arrow {
+        -webkit-transform: scaleX(-1) rotate(-20deg) !important;
+                transform: scaleX(-1) rotate(-20deg) !important;
+      }
+      
+      .step-c .step-all-c .step-row-rev .step-single-c:nth-child(odd) {
+        margin-top: 40px !important;
+      }
+      
+      .step-c .step-all-c .step-row-rev .step-single-c:nth-child(odd) .step-single-c-arrow {
+        -webkit-transform: scaleX(1) rotate(160deg) !important;
+                transform: scaleX(1) rotate(160deg) !important;
+      }
+      
+      .step-c .step-all-c .step-row-rev .step-single-c:first-child .step-single-c-arrow {
+        -webkit-transform: scaleX(1) rotate(100deg) !important;
+                transform: scaleX(1) rotate(100deg) !important;
+        right: 0;
+        top: -50px;
+      }
+    
+      .step-c .step-all-c .step-single-c .step-single-c-arrow {
+        position: absolute;
+        width: 75px;
+        right: -35px;
+        top: 25px;
+        -webkit-transform: rotate(10deg);
+                transform: rotate(10deg);    
+      }
+      
+      .step-c .step-all-c .step-single-c:nth-child(even) {
+        margin-top: 65px;
+      }
+      
+      .step-c .step-all-c .step-single-c:nth-child(even) .step-single-c-arrow {
+        -webkit-transform: scaleX(-1) rotate(195deg);
+        transform: scaleX(-1) rotate(195deg);
+      }
+      
+      .step-c .step-all-c .step-single-c:nth-child(even) .step-single-icon-c h6 {
+        right: unset;
+        top: unset;
+        left: 0;
+        bottom: 0;
+      }
+
+      .step-c .step-all-c .step-single-c .step-single-final .step-single-final-img {
+        height: 225px;     
+    }
+
+    .clint-case .clint-case-all {       
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .clint-case .clint-case-single .clint-case-info p {
+        padding: 0 25px;
+    }
+    
+    .clint-case .clint-case-single h3 {        
+        padding-right: 100px;
+    }
+
+    .banner-hone .banner-content-text h1,
+    .banner-hone .banner-content-text p {       
+        text-align: left;
+        color: #fff;
+    }
+    .banner-hone .banner-content-text h1 {      
+       letter-spacing: 0;
+    }
+
+    .banner-hone .banner-content-text h1 span {      
+        margin: 5px 0;       
+        font-size: 35px;
+    }
+
+    .banner-hone .banner-content .banner-input {
+        border-radius: 100px;
+        position: absolute;
+        left: 50%;
+        bottom: 25px;
+        transform: translate(-50%, 0px);
+        max-width: max-content;
+    }
+
+    .banner-hone .banner-content .banner-content-img .banner-main-img img {
+        height: 425px;
+        width: auto;
+        display: table;
+        margin: 0 auto;
+    }
+
+    .services-sqr {
+        width: 500px;
+        height: 500px;       
+        right: -200px;
+        top: -100px;     
+        transform: rotate(40deg);
+    }
+
+    .after-before-all-c {
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+    }
+
+    .after-before-all-cont {
+        width: 50%;       
+    }
+
+    .main {        
+        width: 50%;
+    }
+
+    .after-before-all-cont .sub-head {
+        text-align: left;
+    }
+
+    .after-before .inline-container {        
+        justify-content: flex-start;      
+    }
+
+    .after-before .inline-container .card img {
+        height: 100px;
+        width: 100px;        
+    }
+
+    .after-before .inline-container .card {
+        padding: 10px;       
+        margin: 0 15px 0 0;      
+    }
+
+    .square-vec.after-before-sqr {
+        width: 450px;
+        height: 500px;        
+        left: -175px;
+        bottom: 0;     
+        transform: rotate(100deg);        
+    }
+
+    .meet-doctors .meet-doctors-single {        
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+        padding: 50px;
+    }
+
+    .meet-doctors .meet-doctors-single .meet-doctor-single-detail {
+        text-align: left;
+        margin-top: 0;
+        width: 50%;        
+    }
+
+    .meet-doctors .meet-doctors-single .meet-doctor-single-image {        
+        width: 50%;
+    }
+
+    .meet-doctors .meet-doctors-single .meet-doctor-single-image .doctor-image img {
+        width: auto;
+        height: 400px;       
+        display: table;
+        margin: 0 auto;
+    }
+
+    .our-numbers .our-numbersa-all .our-numbersa-single:first-child {
+        width: 25%;
+    }
+
+    .our-numbers .our-numbersa-all .our-numbersa-single {
+        padding: 0;      
+    }
+
+    .video-sec .video-c-video video {
+        height: 485px;
+    }
+
+    .video-sec .video-text-c {        
+        margin-top: 30px;       
+    }
+
+    .video-sec .video-text-c h2 span {
+        display: table;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .video-sec .video-text-c:after {      
+        width: 250px;      
+    }
+
+    .video-sec:after {       
+        height: 300px;      
+    }
+
+    .why-us .square-vec.why-us-sqr {
+        width: 600px;
+        height: 600px;       
+        top: -35px;        
+    }
+
+    .why-us .why-us-sqr-sml {
+        width: 550px;
+        height: 550px;  
+        transform: rotate(80deg);        
+    }
+
+    .get-in-touch-single-all {
+        display: flex;
+        align-items: center;
+    }
+
+    .get-in-touch-single-all-map {
+        width: 50%;
+        padding-right: 25px;
+    }
+
+    .get-in-touch-office-pic {
+        width: 50%;
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-office-pic .office-picture-full img {       
+        height: 300px;  
+        margin-top: 0;     
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-office-pic .office-picture-full .office-picture-qtr img {
+        height: 150px;
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-single-all-map iframe {       
+        height: 470px;      
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-office-pic .office-picture-full {     
+        padding: 0 0 10px 0;
+    }
+
+    .square-vec.banner-sqr-sml {
+        width: 350px;
+        height: 350px;
+        background: #ac8979;
+        left: -115px;
+        bottom: 0;
+        z-index: 2;
+        transform: rotate(45deg);
+        opacity: 0.2;
+    }
+    
+
+    .our-numbers .our-numbers-sqr {
+        width: 500px;
+        height: 500px;
+        top: -390px;       
+    }
+
+    .our-numbers .our-numbers-sqr {
+        width: 500px;
+        height: 500px;
+        top: -390px;
+        left: 0px;
+    }
+    
+    
+
+    header .cnt-inf {       
+        border-radius: 100px;       
+    }
+
+    .after-before .inline-container {        
+        margin-bottom: 40px;
+    }
+
+    
+}
+
+@media only screen and (min-width:1200px) {
+
+    h1 {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    h2 {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    h3 {
+        font-size: 20px;       
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 16px;
+    }
+
+    .container-c {
+        max-width: 1140px;
+    } 
+
+    .banner-hone .f-btn, .step-c .f-btn {
+        border-radius: 50px;
+    }    
+
+    
+
+    .banner-hone .btn-grp {
+        flex-direction: row;
+        margin-top: 25px;
+        align-items: center;
+    }
+
+    .banner-hone .banner-content-text .f-btn {
+        margin-top: 0;
+    }
+
+    .banner-hone .gle-rating {
+        margin-top: 0;
+        margin-left: 25px;
+    }
+
+    
+    .banner-content-img {
+        position: relative;
+        height: calc(100vh - 190px);    
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        max-height: 550px;
+    }
+
+    /* .banner-hone .banner-content .baner-feature {       
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 20px;
+    } */
+
+    .banner-hone .banner-content {        
+        padding: 0;
+    }
+
+    .banner-hone .banner-content .banner-content-img img {
+        height: 485px;
+    }
+  
+
+    .home-contact .sub-head {
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    
+
+    .banner-hone .banner-content .banner-input {     
+        bottom: 45px;       
+    }
+
+    
+
+    .video-sec .video-c-video video {
+        height: 580px;
+    }
+
+    .video-sec .our-numbers-sqr-sml {
+        width: 500px;
+        height: 500px;
+        top: 8px;
+        right: -135px;
+    }
+
+    .price-sec-c .services-single {       
+        width: calc(25% - 12px);
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .price-sec-c .services-single:nth-child(4n+4),.price-sec-c .services-single:last-child{
+        margin-right: 0;
+    }
+    .price-sec-c .services-single:nth-child(3n+3){
+        margin-right: 15px;
+    }
+
+}
+
+
+@media only screen and (min-width:1280px) {
+
+
+    h1 {
+        font-size: 40px;        
+    }
+
+    .padng-sec {
+        padding: 75px 0;
+    }
+
+    header {      
+        padding: 15px 0;
+    }
+
+    .banner-content-img {      
+        height: calc(100vh - 110px);  
+        max-height: 650px;    
+    }
+
+    .banner-hone .banner-content .banner-content-img img {
+        height: 515px;
+    }    
+
+    /* .banner-hone .banner-content .baner-feature {       
+        bottom: 45px;
+    } */
+
+    .meet-doctors .sub-head p, .services .sub-head p{
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .banner-hone .banner-content-text {       
+        padding: 30px 0;        
+    }
+
+    .quick-contact .sub-head h2 .brk {
+        display: inline;       
+    }
+
+  
+    .testimonial .slick-dots {
+        bottom: -45px;
+    }
+
+    .why-us .why-us-cont .faq-accordian .faq-accordian-single {       
+        padding: 20px;
+    }
+
+
+    .services .services-single .services-single-icon img,
+    .services .services-single .services-single-icon {        
+        height: 250px;
+    }
+
+    .banner-hone .banner-content .banner-input .f-btn img {
+        display: block;
+    }
+    .banner-hone .banner-content .banner-content-img .banner-main-img img {
+        height: 515px;       
+    }
+
+    .banner-hone .banner-content-text h1 span {       
+        font-size: 50px;
+    }
+
+    .banner-hone .banner-content-text h3 .wax-thrd {       
+        margin-left: 4px;
+    }
+}
+
+@media only screen and (min-width:1400px) {
+
+    .container-c {
+        max-width: 1320px;
+    }
+
+    /* .services .services-single {
+        padding: 40px;      
+    } */
+
+    /* .banner-hone .banner-content .baner-feature {
+        width: 75%;
+    } */
+
+    .video-sec .video-c-video video {     
+        max-width: 1020px;
+        border-radius: 20px;
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-office-pic .office-picture-full .office-picture-qtr img {
+        height: 185px;
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-office-pic .office-picture-full img {
+        height: 350px;       
+    }
+
+    .get-in-touch-single .get-in-touch-single-all .get-in-touch-single-all-map iframe {
+        height: 545px;
+    }
+    .form-body .input-grp:last-child {
+        margin-bottom: 0;
+    }
+
+    .home-contact textarea {  
+        height: 175px;      
+    }
+
+    .image-container {        
+        max-height: 500px;
+        width: 400px;
+    }
+
+    .image-container img{
+        height: 400px;
+    }
+}
+
+@media only screen and (min-width:1500px) {
+   
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 40px;       
+    }
+
+    a, p, li, label,input[type=text], input[type=email], input[type=tel], input[type=date], input[type=time],textarea,select {
+        font-size: 16px;        
+    }
+
+    input[type=text], input[type=email], input[type=tel], input[type=date], input[type=time],textarea,select {       
+        padding: 20px;
+    }
+
+    .banner-hone .banner-content .banner-content-img img {
+        height: 550px;
+    }
+
+    /* .banner-hone .banner-content .baner-feature {
+        width: 70%;
+        bottom: 25px;
+    } */
+
+    .meet-doctors .meet-doctor-image .doctor-image img {        
+        height: 350px;
+    }
+
+    .sub-head {
+        margin-bottom: 45px;
+    }
+
+    footer {
+        padding-top: 50px !important;
+    }
+
+    .custom-modal .call-modal-input .call-modal-input-single h6 {       
+        padding: 17px;      
+    }
+    .custom-modal-dialog {
+        max-width: 450px;       
+    }
+
+    .custom-modal .call-modal-input .call-modal-input-single input[type="text"] {
+        padding-left: 80px;
+    }
+    .loading-dots .dot {       
+        margin: 0 10px;  
+    }
+
+    .banner-hone .banner-content .banner-content-img .banner-main-img img {
+        height: 570px;
+    }
+
+    
+    
+}
+
+@media only screen and (min-width:1920px) {
+
+    .container-c {
+        max-width: 1680px;
+    }
+
+    h1 {
+        font-size: 55px;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+
+    h4 {
+        font-size: 25px;
+    }
+
+    h5 {
+        font-size: 22px;
+    }
+
+    .f-btn {        
+        font-size: 18px;
+    }
+
+    a, p, li, label,input[type=text], input[type=email], input[type=tel], input[type=date], input[type=time],textarea {
+        font-size: 18px;
+    }
+
+    .banner-hone .banner-content-text h1 span {
+        margin: 7px 0;
+        padding: 0px 15px;
+        font-size: 60px;
+    }
+
+    
+
+    .w-btn-c span, header .cnt-inf .cnt-inf-text {     
+        font-size: 22px;
+    }
+
+    .banner-content-img {
+        height: 635px;
+    }
+
+  
+
+    .banner-hone .banner-content .banner-content-img img {
+        height: 600px;
+    }
+    /* .banner-hone .banner-content .baner-feature {
+        width: 60%;       
+    } */
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img picture img {
+        height: 250px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single picture img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .brnefit-c .why-us-content .why-us-img .why-us-img-single.big-img {
+        width: calc(100% - 430px);
+    }
+
+    .brnefit-c .why-us-content .why-us-img {       
+        justify-content: center;
+    }
+
+    .why-us .why-us-img .why-us-img-single img {
+        height: 285px;
+    }
+
+    .why-us .why-us-img .why-us-img-single.sml-img img {
+        height: 225px;
+    }
+
+    .faq-accordian .faq-accordian-single .faq-accordian-single-head, .faq-accordian .faq-accordian-single .faq-accordian-single-head.open, .faq-accordian .faq-accordian-single .faq-accordian-single-head.open-2 {
+        padding: 25px;
+    }
+}
