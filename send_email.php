@@ -110,7 +110,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.zoho.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'noreply@revolotech.com';
-        $mail->Password   = 'Rev@l@2017';
+        $mail->Password   = 'qQRmFkAjnWuU';
+        // $mail->Password   = 'Rev@l@2017';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
